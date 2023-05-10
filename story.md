@@ -9,3 +9,7 @@ As he was typing away, he suddenly realized that he had been staring at the same
 Feeling frustrated, Bob decided to take a break and get some fresh air. As he was walking outside, he saw a group of kids playing with a toy robot.
 
 Suddenly, an idea struck him. He could program the robot to help him with his project! He excitedly ran over to the kids and asked if he could borrow their robot.
+
+Bob quickly got to work and wrote a program that would allow the robot to type out code for him. He sat back and watched as the robot's tiny arms moved across the keyboard, typing out lines of code faster than he ever could.
+
+But as he was admiring the robot's work, he suddenly realized that the code it was typing was complete gibberish! He had forgotten to check the code before letting the robot loose.
